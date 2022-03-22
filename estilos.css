@@ -1,0 +1,31 @@
+body{
+    background-image: url(imagenes/fondo.jpg);
+    background-size: cover;
+    font-family: sans-serif;
+}
+h1{
+    background-color: darkcyan;
+    text-align: center;
+    border: 5px solid darkgreen;
+    padding: 10px;
+}
+h2{
+    color: white;
+    text-align: center;
+    text-decoration: underline;
+}
+ul{
+    list-style: none;
+    text-align: center;
+}
+li{
+    background-color: orange;
+    border: 5px solid violet;
+    display: inline-block;
+    padding: 10px;
+    margin: 20px;
+    
+}
+a{
+    color: red
+}
